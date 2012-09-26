@@ -1,2 +1,2 @@
-html-tutoriial
+html-tutorial
 ==============
